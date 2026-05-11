@@ -1,0 +1,24 @@
+{
+  "name": "hqcof",
+  "version": "1.0.0",
+  "description": "This repository presents **HQCOF** (Hybrid Quantum-Classical Optimization Framework), a novel approach to optimizing the day-ahead and real-time scheduling of microgrids. The framework combines the robust handling of continuous and complex constraints provided by Model Predictive Control (MPC) with the rapid combinatorial search space exploration capabilities of Quantum Approximate Optimization Algorithm (QAOA).",
+  "main": "build_doc.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ahkatlio/HQCOF.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/ahkatlio/HQCOF/issues"
+  },
+  "homepage": "https://github.com/ahkatlio/HQCOF#readme",
+  "dependencies": {
+    "docx": "^9.6.1"
+  }
+}
